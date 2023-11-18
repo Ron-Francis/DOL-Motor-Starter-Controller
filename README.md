@@ -8,8 +8,9 @@ This electronic device can be integrated with the existing DOL starter circuitry
 The device uses an Atmega328 core with an SIM800l GSM module for the processing and communication purpose.
 The ATmega328 device is programmed using the arduino IDE. The additional libraries required are : 
 
-<SoftwareSerial.h>
-<EEPROM.h>
+SoftwareSerial.h
+
+EEPROM.h
 
 The device is designed into seperate PCB's plates for the ease of custimization.
 The Circuit diagram and PCB designes used are given.
